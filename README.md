@@ -13,12 +13,35 @@
 
 ## 📌 Project Overview
 
-This project performs a comprehensive SQL-based analysis of a **Pizza Sales dataset** to extract meaningful business insights and answer real-world KPI-driven questions.
+This project performs a comprehensive SQL-based analysis of a **Pizza Sales dataset**
+to extract meaningful business insights and answer real-world KPI-driven questions.
 
-The analysis covers revenue trends, order patterns, best and worst-selling pizzas, category-wise and size-wise breakdowns — helping understand sales strategy and business performance.
+The analysis covers revenue trends, order patterns, best and worst-selling pizzas,
+category-wise and size-wise breakdowns — helping understand sales strategy and
+business performance.
 
+The insights are also visualized through an interactive **Excel Dashboard**
+(built using Excel + SQL), accessible via the [live Vercel deployment](https://pizza-sales-dashboard-lake.vercel.app/).
 ---
 
+
+## 🔗 Links
+
+| Resource | Link |
+|----------|------|
+| 📊 Live Dashboard | [View](https://1drv.ms/x/c/85a2d415c17d6802/IQCuLC2Dy0GIRaBURyFCKPmkATsFAN1K16l8DavH43W-qHM?e=Oh5xl4) |
+| 🌐 Live Demo | [View](https://pizza-sales-dashboard-lake.vercel.app/) |
+
+---
+<!--
+## 🔗 Links
+
+| Resource | Link |
+|----------|------|
+| 📊 Excel Data File | [Open in OneDrive](https://1drv.ms/x/c/85a2d415c17d6802/IQCuLC2Dy0GIRaBURyFCKPmkATsFAN1K16l8DavH43W-qHM?e=Oh5xl4) |
+| 🌐 Live Dashboard | [View on Vercel](https://pizza-sales-dashboard-lake.vercel.app/) |
+
+---  -->
 ## 🎯 Objectives
 
 - 💰 Calculate key revenue and order KPIs
@@ -564,6 +587,7 @@ LIMIT 1;
 
 ---
 
+
 ## 📁 Project Files
 
 | File | Description |
@@ -581,4 +605,4 @@ LIMIT 1;
 
 ---
 
-*Pizza Sales Data Analysis · MySQL · SQL · Business Intelligence*
+*Pizza Sales Data Analysis · MySQL · SQL · Excel · Business Intelligence*
